@@ -1,16 +1,75 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0052D4&height=300&section=header&text=Moajjem%20Hossain&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**moajjem441/moajjem441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Moajjem Hossain
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;Web+Development+Enthusiast;Cybersecurity+Learner;IoT+Developer">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 About Me
+🎓 CSE Student (Major in Software Engineering) at BUBT  
+💻 Passionate about Software Development, Web Development & Cybersecurity  
+🚀 Currently learning Python, JavaScript & IoT  
+🎯 Goal: Become a skilled Software Engineer  
+
+---
+
+
+
+## 🔥 Skills
+
+<p>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
+</p>
+
+---
+
+## 📌 Projects
+
+- 🧠 **Mindful Today** – Mental Wellness App (Python + GUI)  
+- 👁️ **Third Eye** – Smart System for Blind People (ESP32 + Sensors + Audio)  
+- 🏃 **Bangla Runner** – Java Swing Game  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moajjem441&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=moajjem441&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moajjem441&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🌐 Web Development  
+- 🤖 AI Basics  
+- 🛠 Software Development  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Moajjem Hossain](https://www.linkedin.com/in/moajjem-hossain-/)
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love building real-life impactful projects like systems for visually impaired people!
