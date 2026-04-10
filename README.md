@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Moajjem Hossain
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;Web+Development+Enthusiast;Cybersecurity+Learner;IoT+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;Web+Development+Learner;Cybersecurity+Enthusiast;IoT+Developer">
 </p>
 
 ---
