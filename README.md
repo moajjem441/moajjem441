@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0052D4&height=300&section=header&text=Moajjem%20Hossain&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Moajjem%20Hossain&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Learner%20|%20CSE%20Student%20|%20Future%20Developer&descAlignY=60&descSize=18" />
 </p>
 
 # 👋 Hi, I'm Moajjem Hossain
