@@ -62,8 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moajjem441&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moajjem441&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moajjem441&layout=compact&theme=tokyonight&langs_count=20" />
 </p>
 
 <p align="center">
