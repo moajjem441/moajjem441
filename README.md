@@ -1,5 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Moajjem%20Hossain&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Learner%20|%20CSE%20Student%20|%20Future%20Developer&descAlignY=60&descSize=18" />
+  <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
+
 </p>
 
 # 👋 Hi, I'm Moajjem Hossain
