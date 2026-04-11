@@ -49,13 +49,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  
   <img src="https://streak-stats.demolab.com?user=moajjem441&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moajjem441&layout=compact&theme=tokyonight" />
-</p>
 
 
 ---
