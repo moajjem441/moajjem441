@@ -66,6 +66,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moajjem441&theme=tokyonight" />
 </p>
 
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moajjem441&theme=tokyonight&row=1&column=6" />
+</p>
+
 ---
 
 ## 🌱 Currently Learning
