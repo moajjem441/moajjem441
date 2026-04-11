@@ -68,7 +68,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moajjem441" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moajjem441&theme=tokyo-night" />
 </p>
 
 ---
