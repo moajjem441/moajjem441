@@ -25,15 +25,17 @@
 ## 🔥 Skills
 
 <p>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino"/>
-  <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino"/>
+<img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
 </p>
 
 ---
