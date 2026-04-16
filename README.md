@@ -43,7 +43,7 @@
 - 👁️ **Third Eye** – Smart System for Blind People (ESP32 + Sensors + Audio)  
 - 🏃 **Bangla Runner** – Java Swing Game  
 - 📱 **Mind Refreshment App** – Mental Wellness App (React Native)
-- 🧪 HepaInsight – AI-based Liver Disease stage prediction using Machine Learning (Python).
+- 🧪 **HepaInsight** – AI-based Liver Disease stage prediction using Machine Learning (Python).
 
 ---
 
