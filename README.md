@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino"/>
   <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
 </p>
