@@ -23,67 +23,10 @@
 
 
 ## 🔥 Skills
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>
-</p>
-
-HTML &nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Next.js
-
----
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/>
-</p>
-
-Node.js &nbsp;&nbsp;&nbsp; Express.js
-
----
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/>
-</p>
-
-MongoDB &nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;&nbsp; Firebase
-
----
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
-</p>
-
-C &nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; JavaScript
-
----
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=arduino" width="48" alt="Arduino"/>
-</p>
-
-Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Arduino
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 
 
