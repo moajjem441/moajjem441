@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Moajjem%20Hossain&fontSize=45&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
-</p>
 
 # 👋 Hi, I'm Moajjem Hossain
 
@@ -203,6 +202,13 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 - 📱 Phone: +8801708372039
 - 💼 LinkedIn: [Moajjem Hossain](https://www.linkedin.com/in/moajjem-hossain-/)
 - 🐙 GitHub: [moajjem441](https://github.com/moajjem441)
+  
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=moajjem441&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 ---
 
 ## ⚡ Fun Fact
