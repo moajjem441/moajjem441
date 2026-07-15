@@ -88,7 +88,10 @@
 
 ## 📫 Contact
 
-- LinkedIn: [Moajjem Hossain](https://www.linkedin.com/in/moajjem-hossain-/)
+- 📧 Email: moajjem441@gmail.com
+- 📱 Phone: +8801XXXXXXXXX
+- 💼 LinkedIn: [Moajjem Hossain](https://www.linkedin.com/in/moajjem-hossain-/)
+- 🐙 GitHub: [moajjem441](https://github.com/moajjem441)
 
 ---
 
