@@ -78,11 +78,12 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Current Activities
 
-- 🌐 Web Development  
-- 🤖 AI Basics  
-- 🛠 Software Development  
+- 🌱 Exploring Next.js and Backend Development
+- 💻 Solving LeetCode Problems
+- 🚀 Building Full-Stack Web Applications
+- 📚 Learning Software Design Patterns 
 
 ---
 
