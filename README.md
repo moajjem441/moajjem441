@@ -139,6 +139,26 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 
 
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/moajjem/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/moajjem441">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+
+  <a href="https://judge.beecrowd.com/en/profile/814396">
+    <img src="https://img.shields.io/badge/Beecrowd-00599C?style=for-the-badge" alt="Beecrowd"/>
+  </a>
+</p>
+
+
+---
+
+
 
 ## 📊 GitHub Stats
 
