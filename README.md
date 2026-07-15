@@ -96,8 +96,8 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 - 🚀 Full-Stack Web Application
 - ⚛️ Tech Stack: Next.js, Express.js, MongoDB, Stripe
 - 🌟 Features: User Authentication, Ticket Booking, Vendor Dashboard, Online Payment
-- 🔗 Live Demo: [Live Site]([https://your-live-link.com](https://online-ticket-booking-platform-eight.vercel.app))
-- 💻 GitHub: [Repository]([https://github.com/moajjem441/your-repo](https://github.com/moajjem441/online-ticket-booking-platform))
+- 🔗 Live Demo: [Live Site](https://online-ticket-booking-platform-eight.vercel.app)
+- 💻 GitHub: [Repository](https://github.com/moajjem441/online-ticket-booking-platform)
 
 ---
 
@@ -105,7 +105,7 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 - 🦯 Smart Navigation System for Visually Impaired People
 - ⚛️ Tech Stack: ESP32, GPS, Firebase, Ultrasonic Sensor, DFPlayer
 - 🌟 Features: Obstacle Detection, Voice Guidance
-- 💻 GitHub: [Repository]([[https://github.com/moajjem441/your-repo](https://github.com/moajjem441/third-eye-assistive-system](https://github.com/moajjem441/third-eye-assistive-system)))
+- 💻 GitHub: [Repository](https://github.com/moajjem441/third-eye-assistive-system)
 
 ---
 
