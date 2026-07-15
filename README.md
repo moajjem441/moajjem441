@@ -24,7 +24,7 @@
 
 ## 🔥 Skills
 
-<p>
+<!-- <p>
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
@@ -36,7 +36,32 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino"/>
 <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
-</p>
+</p> -->
+
+
+
+## 💻 Frontend
+
+HTML • CSS • JavaScript • React • Next.js
+
+## ⚙ Backend
+
+Node.js • Express
+
+## 🗄 Database
+
+MongoDB • MySQL • Firebase
+
+## 🛠 Languages
+
+C • C++ • Python • JavaScript
+
+## ⚡ Tools
+
+Git • GitHub • VS Code • Arduino
+
+
+
 
 ---
 
@@ -87,26 +112,12 @@
 
 ---
 
-## 🌐 Connect with Me
+## 📫 Contact
 
-<p>
-<a href="https://www.linkedin.com/in/moajjem-hossain-/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/moajjem441">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:moajjem441@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="tel:+8801708372039">
-<img src="https://img.shields.io/badge/Phone-%2B8801708372039-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
-</a>
-</p>
-
+- 📧 Email: moajjem441@gmail.com
+- 📱 Phone: +8801708372039
+- 💼 LinkedIn: [Moajjem Hossain](https://www.linkedin.com/in/moajjem-hossain-/)
+- 🐙 GitHub: [moajjem441](https://github.com/moajjem441)
 ---
 
 ## ⚡ Fun Fact
