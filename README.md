@@ -158,6 +158,16 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 ---
 
 
+## ⚡ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL, Firebase
+- Programming: C, C++, Python
+
+
+
+---
 
 ## 📊 GitHub Stats
 
