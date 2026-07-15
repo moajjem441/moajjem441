@@ -101,6 +101,17 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 ---
 
+### 💡 IdeaVault – Startup Idea Sharing Platform
+- 🚀 Full-Stack Web Application
+- ⚛️ Tech Stack: Next.js, Express.js, MongoDB, HeroUI, DaisyUI
+- 🌟 Features: User Authentication, Startup Idea Publishing, Comment & Discussion System, Interactive Reactions (Likes), Dark/Light Theme
+- 🔗 Live Demo: [Live Site](https://ideavault-tau-gray.vercel.app)
+- 💻 GitHub: [Repository](https://github.com/moajjem441/ideavault-client-site)
+
+
+---
+
+
 ### 👁️ Third Eye
 - 🦯 Smart Navigation System for Visually Impaired People
 - ⚛️ Tech Stack: ESP32, GPS, Firebase, Ultrasonic Sensor, DFPlayer
