@@ -128,11 +128,11 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 ---
 
-### 🧪 HepaInsight
-- 🤖 AI-based Liver Disease Stage Prediction
-- ⚛️ Tech Stack: Python, Scikit-learn, XGBoost, Pandas
-- 🌟 Features: Data Preprocessing, Feature Engineering, ML Prediction
-- 💻 GitHub: [Repository](https://github.com/moajjem441/your-repo)
+### 🧪 HepaInsight – Liver Disease Stage Prediction
+- 🤖 Predictive Modeling & Risk Classification (ML)
+- ⚛️ Tech Stack: Python, Scikit-Learn, XGBoost, Pandas, SMOTE
+- 🌟 Features: KNN Imputation for Missing Data, SMOTE Class Balancing, Multi-Class & Binary Risk (Low/High)   Assessment, Feature Importance Profiling
+- 💻 GitHub: [Repository](https://github.com/moajjem441/Predictive-Modeling-for-Liver-Disease-Stages-using-ML)
 
 ---
 
