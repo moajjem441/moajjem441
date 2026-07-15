@@ -13,10 +13,11 @@
 ---
 
 ## 🎓 About Me
+
 🎓 CSE Student (Major in Software Engineering) at BUBT  
-💻 Passionate about Software Development, Web Development & Cybersecurity  
-🚀 Currently learning Python, JavaScript & IoT  
-🎯 Goal: To Become a Skilled Software Engineer and Web Developer.
+💻 Passionate about Full-Stack Web Development, Software Engineering & Problem Solving  
+🚀 Currently exploring Next.js, Backend Development, and Software Design Patterns  
+🎯 Goal: To Build Scalable Software Solutions and Grow as a Skilled Software Engineer.
 
 ---
 
