@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Moajjem Hossain
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Problem+Solver;Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Problem+Solver;Building Real-World Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -157,17 +157,6 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 ---
 
-
-## ⚡ Tech Stack
-
-- Frontend: HTML, CSS, JavaScript, React, Next.js
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL, Firebase
-- Programming: C, C++, Python
-
-
-
----
 
 ## 📊 GitHub Stats
 
