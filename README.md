@@ -90,15 +90,43 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-- 🧠 **Mindful Today** – Mental Wellness App (Python + GUI)  
-- 👁️ **Third Eye** – Smart System for Blind People (ESP32 + Sensors + Audio)  
-- 🏃 **Bangla Runner** – Java Swing Game  
-- 📱 **Mind Refreshment App** – Mental Wellness App (React Native)
-- 🧪 **HepaInsight** – AI-based Liver Disease stage prediction using Machine Learning (Python).
+### 🎫 Ticket Booking & Management System
+- 🚀 Full-Stack Web Application
+- ⚛️ Tech Stack: Next.js, Express.js, MongoDB, Stripe
+- 🌟 Features: User Authentication, Ticket Booking, Vendor Dashboard, Online Payment
+- 🔗 Live Demo: [Live Site]([https://your-live-link.com](https://online-ticket-booking-platform-eight.vercel.app))
+- 💻 GitHub: [Repository]([https://github.com/moajjem441/your-repo](https://github.com/moajjem441/online-ticket-booking-platform))
 
 ---
+
+### 👁️ Third Eye
+- 🦯 Smart Navigation System for Visually Impaired People
+- ⚛️ Tech Stack: ESP32, GPS, Firebase, Ultrasonic Sensor, DFPlayer
+- 🌟 Features: Obstacle Detection, Voice Guidance
+- 💻 GitHub: [Repository]([[https://github.com/moajjem441/your-repo](https://github.com/moajjem441/third-eye-assistive-system](https://github.com/moajjem441/third-eye-assistive-system)))
+
+---
+
+### 🧠 Mind Refreshment App
+- 💙 Cross-Platform Mental Wellness Mobile Application
+- ⚛️ Tech Stack: React Native, TypeScript, Node.js, Expo
+- 🌟 Features: AI Mood Prediction, Interactive Journal, AI Chat Assistant, Relaxation Activities, Doctor Scheduling & Quranic Spiritual Support
+- 💻 GitHub: [Repository](https://github.com/moajjem441/Mind_Refreshment_App)
+
+---
+
+### 🧪 HepaInsight
+- 🤖 AI-based Liver Disease Stage Prediction
+- ⚛️ Tech Stack: Python, Scikit-learn, XGBoost, Pandas
+- 🌟 Features: Data Preprocessing, Feature Engineering, ML Prediction
+- 💻 GitHub: [Repository](https://github.com/moajjem441/your-repo)
+
+---
+
+
+
 
 ## 📊 GitHub Stats
 
