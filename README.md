@@ -87,12 +87,25 @@
 
 ---
 
-## 📫 Contact
+## 🌐 Connect with Me
 
-- 📧 Email: moajjem441@gmail.com
-- 📱 Phone: +8801708372039
-- 💼 LinkedIn: [Moajjem Hossain](https://www.linkedin.com/in/moajjem-hossain-/)
-- 🐙 GitHub: [moajjem441](https://github.com/moajjem441)
+<p>
+<a href="https://www.linkedin.com/in/moajjem-hossain-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/moajjem441">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:moajjem441@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="tel:+8801708372039">
+<img src="https://img.shields.io/badge/Phone-%2B8801708372039-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
+</p>
 
 ---
 
