@@ -16,7 +16,7 @@
 🎓 CSE Student (Major in Software Engineering) at BUBT  
 💻 Passionate about Software Development, Web Development & Cybersecurity  
 🚀 Currently learning Python, JavaScript & IoT  
-🎯 Goal: Become a skilled Software Engineer  
+🎯 Goal: To Become a Skilled Software Engineer and Web Developer.
 
 ---
 
