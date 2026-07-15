@@ -40,25 +40,32 @@
 
 
 
-## 💻 Frontend
+## 💻 Skills
 
-HTML • CSS • JavaScript • React • Next.js
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
 
-## ⚙ Backend
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-Node.js • Express
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
 
-## 🗄 Database
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
 
-MongoDB • MySQL • Firebase
-
-## 🛠 Languages
-
-C • C++ • Python • JavaScript
-
-## ⚡ Tools
-
-Git • GitHub • VS Code • Arduino
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+</p>
 
 
 
