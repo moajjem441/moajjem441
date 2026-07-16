@@ -68,6 +68,7 @@ MongoDB &nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;&nbsp; Firebase
   <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/>
 </p>
 
 C &nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; JavaScript
