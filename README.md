@@ -88,7 +88,7 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 
 
-
+---
 ## 🚀 Featured Projects
 
 ### 🎓 SkillHub – AI-Powered EdTech Platform
@@ -157,7 +157,7 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 * 💻 **GitHub:** https://github.com/moajjem441/Predictive-Modeling-for-Liver-Disease-Stages-using-ML
 
 
-
+---
 
 ## 💻 Coding Profiles
 
