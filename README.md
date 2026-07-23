@@ -89,53 +89,73 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 
 
----
-
 ## 🚀 Featured Projects
 
-### 🎫 Ticket Booking & Management System
-- 🚀 Full-Stack Web Application
-- ⚛️ Tech Stack: Next.js, Express.js, MongoDB, Stripe
-- 🌟 Features: User Authentication, Ticket Booking, Vendor Dashboard, Online Payment
-- 🔗 Live Demo: [Live Site](https://online-ticket-booking-platform-eight.vercel.app)
-- 💻 GitHub: [Repository](https://github.com/moajjem441/online-ticket-booking-platform)
+### 🎓 SkillHub – AI-Powered EdTech Platform
+
+* 🚀 Production-Grade Full-Stack Web Application
+* ⚛️ **Tech Stack:** Next.js, TypeScript, Express.js, MongoDB, Better Auth, JWT, Stripe, Groq AI
+* 🌟 **Features:** AI Course Content Generation, Personalized Course Recommendations, Secure Authentication, Role-Based Dashboard, Stripe Payment Integration, Contact System
+* 🔗 **Live Demo:** https://skillhub-ivory.vercel.app
+* 💻 **GitHub:** https://github.com/moajjem441/SkillHub
+
+---
+
+### 🎫 Online Ticket Booking Platform
+
+* 🚀 Full-Stack Web Application
+* ⚛️ **Tech Stack:** Next.js, TypeScript, Express.js, MongoDB, JWT, Stripe
+* 🌟 **Features:** Secure Authentication, Online Ticket Booking, Role-Based Dashboard, Booking Management, Stripe Payment Integration
+* 🔗 **Live Demo:** https://online-ticket-booking-platform-eight.vercel.app
+* 💻 **GitHub:** https://github.com/moajjem441/online-ticket-booking-platform
 
 ---
 
 ### 💡 IdeaVault – Startup Idea Sharing Platform
-- 🚀 Full-Stack Web Application
-- ⚛️ Tech Stack: Next.js, Express.js, MongoDB, HeroUI, DaisyUI
-- 🌟 Features: User Authentication, Startup Idea Publishing, Comment & Discussion System, Interactive Reactions (Likes), Dark/Light Theme
-- 🔗 Live Demo: [Live Site](https://ideavault-tau-gray.vercel.app)
-- 💻 GitHub: [Repository](https://github.com/moajjem441/ideavault-client-site)
 
+* 🚀 Full-Stack Community Platform
+* ⚛️ **Tech Stack:** Next.js, React, Tailwind CSS, Express.js, MongoDB, HeroUI, DaisyUI
+* 🌟 **Features:** User Authentication, Startup Idea Publishing, Community Discussions, Search & Filter, Interactive Reactions, Dark/Light Theme
+* 🔗 **Live Demo:** https://ideavault-tau-gray.vercel.app
+* 💻 **GitHub:** https://github.com/moajjem441/ideavault-client-site
 
 ---
 
+### 📚 SkillSphere – Online Learning Platform
 
-### 👁️ Third Eye
-- 🦯 Smart Navigation System for Visually Impaired People
-- ⚛️ Tech Stack: ESP32, GPS, Firebase, Ultrasonic Sensor, DFPlayer
-- 🌟 Features: Obstacle Detection, Voice Guidance
-- 💻 GitHub: [Repository](https://github.com/moajjem441/third-eye-assistive-system)
+* 🚀 Modern Learning Platform
+* ⚛️ **Tech Stack:** Next.js, React, Tailwind CSS, Better Auth, HeroUI, DaisyUI
+* 🌟 **Features:** Email & Google Authentication, Course Browsing, Protected Course Details, Search Functionality, User Profile, Responsive UI
+* 🔗 **Live Demo:** https://skill-sphere-taupe.vercel.app
+* 💻 **GitHub:** https://github.com/moajjem441/Skill-Sphere
 
 ---
 
 ### 🧠 Mind Refreshment App
-- 💙 Cross-Platform Mental Wellness Mobile Application
-- ⚛️ Tech Stack: React Native, TypeScript, Node.js, Expo
-- 🌟 Features: AI Mood Prediction, Interactive Journal, AI Chat Assistant, Relaxation Activities, Doctor Scheduling & Quranic Spiritual Support
-- 💻 GitHub: [Repository](https://github.com/moajjem441/Mind_Refreshment_App)
+
+* 💙 Cross-Platform Mental Wellness Application
+* ⚛️ **Tech Stack:** React Native, TypeScript, Node.js, Expo
+* 🌟 **Features:** AI Mood Prediction, Interactive Journaling, AI Chat Assistant, Relaxation Activities, Doctor Appointment Scheduling, Quranic Spiritual Support
+* 💻 **GitHub:** https://github.com/moajjem441/Mind_Refreshment_App_-Sem-6-
+
+---
+
+### 👁️ Third Eye – Smart Assistive System
+
+* 🦯 IoT-Based Navigation System for Visually Impaired People
+* ⚛️ **Tech Stack:** ESP32, GPS, Firebase, Ultrasonic Sensor, DFPlayer
+* 🌟 **Features:** Real-Time Obstacle Detection, Voice Guidance, GPS-Based Navigation, Emergency Assistance
+* 💻 **GitHub:** https://github.com/moajjem441/third-eye-assistive-system
 
 ---
 
 ### 🧪 HepaInsight – Liver Disease Stage Prediction
-- 🤖 Predictive Modeling & Risk Classification (ML)
-- ⚛️ Tech Stack: Python, Scikit-Learn, XGBoost, Pandas, SMOTE
-- 🌟 Features: KNN Imputation for Missing Data, SMOTE Class Balancing, Multi-Class & Binary Risk (Low/High)   Assessment, Feature Importance Profiling
-- 💻 GitHub: [Repository](https://github.com/moajjem441/Predictive-Modeling-for-Liver-Disease-Stages-using-ML)
 
----
+* 🤖 Machine Learning-Based Healthcare Prediction System
+* ⚛️ **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas, NumPy, SMOTE
+* 🌟 **Features:** Disease Stage Prediction, KNN Missing Value Imputation, SMOTE Class Balancing, Binary & Multi-Class Risk Classification, Feature Importance Analysis
+* 💻 **GitHub:** https://github.com/moajjem441/Predictive-Modeling-for-Liver-Disease-Stages-using-ML
+
 
 
 
