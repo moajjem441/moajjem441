@@ -183,19 +183,17 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=moajjem441&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moajjem441&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=moajjem441&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moajjem441&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moajjem441&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moajjem441&theme=tokyonight&v=1" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moajjem441&theme=tokyonight&v=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moajjem441&theme=tokyonight&v=1" />
+</p>
 
 
 ---
