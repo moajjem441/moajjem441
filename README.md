@@ -122,25 +122,7 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 ---
 
-### 💡 IdeaVault – Startup Idea Sharing Platform
 
-* 🚀 Full-Stack Community Platform
-* ⚛️ **Tech Stack:** Next.js, React, Tailwind CSS, Express.js, MongoDB, HeroUI, DaisyUI
-* 🌟 **Features:** User Authentication, Startup Idea Publishing, Community Discussions, Search & Filter, Interactive Reactions, Dark/Light Theme
-* 🔗 **Live Demo:** https://ideavault-tau-gray.vercel.app
-* 💻 **GitHub:** https://github.com/moajjem441/ideavault-client-site
-
----
-
-### 📚 SkillSphere – Online Learning Platform
-
-* 🚀 Modern Learning Platform
-* ⚛️ **Tech Stack:** Next.js, React, Tailwind CSS, Better Auth, HeroUI, DaisyUI
-* 🌟 **Features:** Email & Google Authentication, Course Browsing, Protected Course Details, Search Functionality, User Profile, Responsive UI
-* 🔗 **Live Demo:** https://skill-sphere-taupe.vercel.app
-* 💻 **GitHub:** https://github.com/moajjem441/Skill-Sphere
-
----
 
 ### 🧠 Mind Refreshment App
 
