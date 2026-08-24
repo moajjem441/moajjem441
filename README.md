@@ -102,6 +102,16 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 
 ---
 
+### 📚 BookNest – Community Book Sharing Platform
+
+* 🚀 Full-Stack Community Book Sharing Platform
+* ⚛️ **Tech Stack:** Next.js, TypeScript, Express.js, MongoDB, Better Auth
+* 🌟 **Features:** Physical & PDF Book Sharing, Role-Based Access Control, Book Borrowing Workflow, Admin Approval, User/Admin Dashboards, Resource Management
+* 🔗 **Live Demo:** https://booknest-eight-black.vercel.app
+* 💻 **GitHub:** https://github.com/moajjem441/BookNest
+
+
+
 ### 🎫 Online Ticket Booking Platform
 
 * 🚀 Full-Stack Web Application
