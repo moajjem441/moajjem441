@@ -196,10 +196,7 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moajjem441&theme=tokyo-night" />
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moajjem441/moajjem441/output/snake.svg" />
-</p>
+
 
 ---
 
