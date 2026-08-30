@@ -5,11 +5,17 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# ⚠️ এই লাইনটাই সবচেয়ে গুরুত্বপূর্ণ (পারমিশন দিচ্ছে)
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # আপডেটেড ভার্সন v4
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -17,9 +23,12 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      # আপডেটেড ভার্সন v4 এবং force: true যোগ করা হয়েছে
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          force: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
