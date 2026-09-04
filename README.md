@@ -193,7 +193,7 @@ Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Ardu
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://YOUR-APP.vercel.app/graph?username=moajjem441&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moajjem441&theme=tokyo-night" />
 </p>
 
 <!-- Snake Animation (Dark Version) -->
